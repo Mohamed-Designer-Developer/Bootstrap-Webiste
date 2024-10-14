@@ -1,0 +1,14 @@
+.logo {
+  width: 150px;
+}
+
+.input-text {
+  width: 100%;
+}
+
+
+body::before {
+    display: block;
+    content: "";
+    height: 60px;
+  }
